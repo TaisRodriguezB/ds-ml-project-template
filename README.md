@@ -2,6 +2,13 @@
 ## DESCRIPCIÓN
 Este proyecto tiene como objetivo predecir el precio medio de viviendas en California utilizando técnicas de Machine Learning. Se desarrolló un pipeline completo que abarca desde la exploración de datos hasta el despliegue del modelo en una API REST, asegurando consistencia entre entrenamiento e inferencia.
 
+## LITERATURA / REFERENCIAS 
+Improving hedonic housing price models by integrating optimal accessibility indices into regression and random forest analyses
+ by David Rey-Blancoa, José L. Zofío, Julio González-Arias
+
+Estimation of Hedonic Single-Family House Price Function Considering Neighborhood Effect Variables
+ by Chihiro Shimizu
+
 ## PIPELINE DEL PROYECTO
 1. Exploración de datos (EDA)
    - Análisis de distribuciones y detección de outliers  
